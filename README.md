@@ -1,0 +1,2 @@
+# teleauto
+Teleauto astronomy software
